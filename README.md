@@ -46,6 +46,23 @@ We provide the code for training and evaluation in main.py.
 python main.py --config <CONFIG_DIR>
 ```
 
+## Results
+<div align="center">
+  <img width=800 src="figures/results.png"/>
+</div>
+
+
+## Citation
+If you find our work useful, please cite as follows.
+
+```BibTeX
+@inproceedings{MVPDR,
+      title={Hierarchical Dynamic Image Harmonization},
+      author={Wei, Tianqi and Chen, Zhi and Huang, Zi and Yu, Xin},
+      booktitle={ACM Multimedia},
+      year={2024}
+}
+```
 
 
 
