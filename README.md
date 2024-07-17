@@ -40,7 +40,7 @@ conda install pytorch torchvision cudatoolkit
 Our dataset is accessible through [LINK].
 
 
-### Running
+## Running
 We provide the code for training and evaluation in main.py.
 ```python
 python main.py --config <CONFIG_DIR>
