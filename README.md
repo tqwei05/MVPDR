@@ -9,15 +9,15 @@ We curate an in-the-wild multimodal plant disease recognition dataset PlantWild 
 
 ### Curation of our dataset
 <div align="center">
-  <img width=900 src="figures/cleaning.png"/>
+  <img width=800 src="figures/cleaning.png"/>
 </div>
 <div align="center">
-  <img width=900 src="figures/bar.png"/>
+  <img width=800 src="figures/bar.png"/>
 </div>
 
 ### Workflow of the baseline
 <div align="center">
-  <img width=900 src="figures/baseline.png"/>
+  <img width=500 src="figures/baseline.png"/>
 </div>
 
 ### Dataset
