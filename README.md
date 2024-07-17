@@ -28,12 +28,13 @@ git clone https://github.com/tqwei05/MVPDR
 cd MVPDR
 ```
 ### 2. Requirements
+```bash
 conda create -n mvpdr python=3.8
 conda activate mvpdr
 pip install -r requirements.txt
-
 # Install the according versions of torch and torchvision
 conda install pytorch torchvision cudatoolkit
+```
 
 ### 3. Prepare the data
 Our dataset is accessible through [LINK].
@@ -43,6 +44,7 @@ Our dataset is accessible through [LINK].
 We provide the code for training and evaluation in main.py.
 ```python
 python main.py --config <CONFIG_DIR>
+```
 
 
 
