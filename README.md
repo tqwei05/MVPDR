@@ -20,5 +20,32 @@ We curate an in-the-wild multimodal plant disease recognition dataset PlantWild 
   <img width=500 src="figures/baseline.png"/>
 </div>
 
-### Dataset
-Our plant dataset is accessible through [LINK].
+
+## Requirements
+### 1. Clone the repo
+```bash
+git clone https://github.com/tqwei05/MVPDR
+cd MVPDR
+```
+### 2. Requirements
+conda create -n mvpdr python=3.8
+conda activate mvpdr
+pip install -r requirements.txt
+
+# Install the according versions of torch and torchvision
+conda install pytorch torchvision cudatoolkit
+
+### 3. Prepare the data
+Our dataset is accessible through [LINK].
+
+
+### Running
+We provide the code for training and evaluation in main.py.
+```python
+python main.py --config <CONFIG_DIR>
+
+
+
+
+
+
