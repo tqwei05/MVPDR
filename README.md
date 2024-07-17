@@ -57,7 +57,7 @@ If you find our work useful, please cite as follows.
 
 ```BibTeX
 @inproceedings{MVPDR,
-      title={Hierarchical Dynamic Image Harmonization},
+      title={Benchmarking In-the-Wild Multimodal Plant Disease Recognition and A Versatile Baseline},
       author={Wei, Tianqi and Chen, Zhi and Huang, Zi and Yu, Xin},
       booktitle={ACM Multimedia},
       year={2024}
