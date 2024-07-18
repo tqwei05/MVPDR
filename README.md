@@ -24,7 +24,7 @@ We curate an in-the-wild multimodal plant disease recognition dataset PlantWild 
 ## Preparation
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/tqwei05/MVPDR
+git clone https://github.com/tqwei05/MVPDR.git
 cd MVPDR
 ```
 ### 2. Requirements
