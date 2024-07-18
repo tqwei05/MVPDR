@@ -37,7 +37,7 @@ conda install pytorch torchvision cudatoolkit
 ```
 
 ### 3. Prepare the data
-Our dataset is accessible through [LINK].
+Our dataset is accessible through [PlantWild](https://drive.google.com/file/d/1s7FOoztTHvO03yVfw75pQY_kzZqvAckD/view?usp=drive_link).
 
 
 ## Running
