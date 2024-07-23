@@ -64,7 +64,9 @@ If you find our work useful, please cite as follows.
 }
 ```
 
+## Acknowledgments
 
+Our code benefits from [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter). We appreciate their wonderful works.
 
 
 
