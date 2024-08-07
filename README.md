@@ -59,7 +59,7 @@ If you find our work useful, please cite as follows.
 @inproceedings{MVPDR,
       title={Benchmarking In-the-Wild Multimodal Plant Disease Recognition and A Versatile Baseline},
       author={Wei, Tianqi and Chen, Zhi and Huang, Zi and Yu, Xin},
-      booktitle={ACM Multimedia},
+      booktitle={ACM International Conference of Multimedia},
       year={2024}
 }
 ```
