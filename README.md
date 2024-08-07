@@ -1,5 +1,5 @@
 # Benchmarking In-the-Wild Multimodal Plant Disease Recognition and A Versatile Baseline
-Official implementation of ['Benchmarking In-the-Wild Multimodal Plant Disease Recognition and A Versatile Baseline']
+Official implementation of ['Benchmarking In-the-Wild Multimodal Plant Disease Recognition and A Versatile Baseline'](https://arxiv.org/abs/2408.03120)
 
 The paper has been accepted by **ACM Multimedia 2024**. 
 
